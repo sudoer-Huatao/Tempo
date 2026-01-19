@@ -1,6 +1,6 @@
 # Tempo
 
-![Version](https://img.shields.io/badge/Version-1.0.1-red.svg) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit/)
+![Version](https://img.shields.io/badge/Version-1.0.2-red.svg) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit/)
 
 A focus timer for students. Level up your work with a systematic focus routine and focus statistics!
 
@@ -20,7 +20,7 @@ A typical pomodoro (Italian for "tomato) technique consists of a **25 min** focu
 
 Download the .dmg file from the latest release (go to the Releases tab).
 
-**If you find this project useful, please star this repository❤️**
+**If you find this project useful, please star this repository⭐️❤️**
 
 
 ### ⚠️ Important!
